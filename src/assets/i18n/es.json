@@ -1,0 +1,549 @@
+{
+  "GENERAL": {
+    "COMPANY": "Compañía",
+    "COMPANY_NAME_PLACEHOLDER": "Compañía",
+    "USERNAME_PLACEHOLDER": "Cuenta",
+    "CREATE": "Crear",
+    "EDIT": "Editar",
+    "EDIT_ICON": "Editar icono",
+    "CHANGE_ICON": "Cambiar icono",
+    "DELETE": "Eliminar",
+    "REMOVE": "Retirar",
+    "SAVE": "Guardar",
+    "BACK": "Atrás",
+    "CANCEL": "Cancelar",
+    "ACTIONS": "Acción",
+    "REQUIRED": "Requerido",
+    "SEARCH": "Buscar",
+    "TITLES": {
+      "SUCCESS": "Éxitoso",
+      "INFO": "Informacón",
+      "WARNING": "Advertencia",
+      "ERROR": "Error"
+    },
+    "QUIT": {
+      "HEADER": "Dejar de editar?",
+      "MESSAGE": "Está seguro de querer salir? Todos los cambias no grardados se perderán.",
+      "CONFIRM": "Salir"
+    },
+    "FORM": {
+      "DATE": {
+        "PLACEHOLDER": "Seleccione una fecha"
+      }
+    },
+    "BUTTONS": {
+      "SAVE": "Guardar",
+      "CLOSE": "Cerrar",
+      "NEW": "Nuevo",
+      "SEARCH": "Buscar",
+      "CONFIRM": "Confirmar",
+      "CANCEL": "Cancelar"
+    },
+    "ERRORS": {
+      "REQUIRED": "El campo es requerido.",
+      "DATA_INVALID": "El valor ingresado es no valido",
+      "ERROR": "Error!",
+      "INPUT_TITLE_ERROR": "Verificar los datos Ingresados!",
+      "INPUT_DETAIL_ERROR": "Los datos ingresados no son correctos!",
+      "SPECIAL_CHARACTERS": "No se permiten carácteres especiales",
+      "LIMIT_CHARACTERS": "Sobrepaso el límite máximo de carácteres",
+      "ONLY_NUMBERS": "Solo se permiten números"
+    }
+  },
+  "LOGIN": {
+    "TITLE": "Iniciar sesión",
+    "EMAIL": "Correo",
+    "SUBMIT_BUTTON": "Iniciar sesión",
+    "PASSWORD": "Contaseña",
+    "REMEMBER_ME": "Recordar",
+    "FORGOT_PASSWORD": "Olvidaste tu contraseña?",
+    "EXAMPLE": "ejemplo@correo.com",
+    "EMAIL_REQUIRED": "Por favor ingrese su correo.",
+    "EMAIL_WRONG_FORMAT": "Una dirección de correo debe tener el formato 'ejemplo@correo.com'.",
+    "EMAIL_TO_LONG": "El correo supera el limite de caracteres. Por favor ingrese un correo más corto.",
+    "PASSWORD_REQUIRED": "Por favor ingrese su contraseña.",
+    "PASSWORD_TO_LONG_MAX": "La contraseña supera el limite de caracteres. Por favor ingrese una contraseña más corta.",
+    "PASSWORD_TO_LONG_MIN": "La longitud mínima de la contraseña es 8 de caracteres.",
+    "TOAST": {
+      "INFO": {
+        "TITLE": " Correo/Contraseña invalidos",
+        "MESSAGE": "Por favor revise los campos marcados y vuelva a intentarlo."
+      },
+      "SUCCESS": {
+        "TITLE": "Bienvenido",
+        "MESSAGE": "Inicio de sesión exitoso"
+      },
+      "ERROR": {
+        "TITLE": "Correo/Contraseña incorrectos",
+        "MESSAGE": "El correo o la contraseña son incorrectos. Por favor virifique dos veces y vuelva a intentarlo."
+      },
+      "SESSION_EXPIRED": {
+        "TITLE": "Sesión expirada",
+        "MESSAGE": "Tu sesión ha expirado. Por favor inicie sesión."
+      }
+    },
+    "ERROR": {
+      "TITLE": "Error",
+      "MESSAGE": "No se puede conectar al servidor"
+    },
+    "SESSION_EXPIRED": {
+      "TITLE": "Sesión Expirada",
+      "MESSAGE": "Vuelva a Iniciar Sesión"
+    },
+    "FOOTER": {
+      "COPYRIGHT": "© 2023 Todos los derechos reservados",
+      "DEVELOPMENT": "Diseñado por",
+      "COMPANY_ACRONYM": "Tech Solutions Perú"
+    }
+  },
+  "HEADER": {
+    "MENU": "Menú",
+    "GENERAL_SETTINGS": "Configuración general",
+    "SEARCH": "Buscar",
+    "RECENT": "Reciente",
+    "TITLE": "Administrador"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "® 2023 Compañía. Todos los derechos reservados.",
+    "GO_TO_PUBLIC": "Ir a la página principal"
+  },
+  "PRODUCT": {
+    "TITLE": "Productos",
+    "CONTROL_PANEL": "Panel de control de productos",
+    "NEW": "Nuevos productos",
+    "NAME_YOUR": "Nombre del producto",
+    "NAME_YOUR_REQUIRED": "Por favor nombre su producto.",
+    "NAME_YOUR_SPACES_ONLY": "El nombre no puede contener únicamente espacios.",
+    "TABLE": {
+      "ICON": "Icono",
+      "NAME": "Nombre",
+      "TYPE": "Tipo",
+      "AMOUNT_ITEMS": "No. de elementos",
+      "LAST_MODIFIED": "Última modificación",
+      "LOADING_PRODUCTS": "Cargando productos...",
+      "NO_PRODUCTS": "No hay productos en la lista."
+    },
+    "DOWNLOAD": {
+      "DOWNLOAD": "DESCARGAR",
+      "EXCEL": "Excel",
+      "PDF": "Pdf",
+      "DOC": "Doc"
+    },
+    "ICON": {
+      "TITLE": "Elige el icono del producto"
+    },
+    "TOAST": {
+      "CREATE_SUCCESS": {
+        "TITLE": "Producto Creado",
+        "MESSAGE": "El producto fue creado exitosamente."
+      },
+      "CREATE_ERROR_FIELDS": {
+        "TITLE": "No se pudo registrar el producto.",
+        "MESSAGE": "Por favor revise los campos marcados y vuelva a intentarlo."
+      },
+      "UPDATE_SUCCESS": {
+        "TITLE": "Producto Actualizado.",
+        "MESSAGE": "El producto fue actualizado exitosamente."
+      },
+      "ERROR": {
+        "TITLE": "Algo salió mal.",
+        "MESSAGE": "Ocurrió un error, por favor intente nuevamente o contáctenos."
+      },
+      "LIST_LOADING_FAILED": {
+        "TITLE": "No se pudo cargar la lista de productos.",
+        "MESSAGE": "Ocurrió un problema al cargar el contenido. Por favor revise su conexión y vuelva a intentarlo."
+      },
+      "DELETE_SUCCESS": {
+        "TITLE": "Producto eliminado.",
+        "MESSAGE": "El producto fue eliminado exitosamente."
+      },
+      "DELETE_ERROR": {
+        "TITLE": "No se pudo eliminar el producto.",
+        "MESSAGE": "Ocurrió un error, por favor intente nuevamente o contáctenos."
+      }
+    },
+    "CREATE": {
+      "TITLE": "Nuevo producto",
+      "QUIT": {
+        "TITLE": "Dejar de crear?"
+      }
+    },
+    "EDIT": {
+      "TITLE": "Editar producto",
+      "QUIT": {
+        "TITLE": "Dejar de editar?"
+      }
+    },
+    "DELETE": {
+      "TITLE": "Eliminar producto",
+      "MESSAGE": "Está seguro de querer eliminar permanentemente este producto? Esta acción no se puede deshacer.",
+      "CONFIRM_TOAST_TITLE": "Producto eliminado",
+      "CONFIRM_TOAST_DESCRIPTION": "El producto fue eliminado exitosamente."
+    }
+  },
+  "ACCOUNT": {
+    "TITLE": "Cuenta",
+    "PROFILE": "Mi perfil",
+    "SETTINGS": "Configuración",
+    "LOG_OUT": "Cerrar sesión"
+  },
+  "HOME": {
+    "TITLE": "Bienvenido",
+    "SUBTITLE": "Inicio"
+  },
+  "CONFIGURATION": {
+    "PARAMETER_CONFIGURATION": {
+      "DATA": {
+        "TITLE": "Parametros de Configuración",
+        "ID": "Id",
+        "NAME": "Nombre",
+        "DESCRIPTION": "Descripción"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar"
+      },
+      "MESSAGE": {}
+    }
+  },
+  "BOVINE": {
+    "LIST": {
+      "DATA": {
+        "TITLE": "Gestión de Bovino",
+        "TITLE2": "Lista de Bovinos",
+        "ID": "Id",
+        "CODE": "Codigo",
+        "DATEREGISTER": "Fecha registro",
+        "NAME": "Nombre",
+        "RACE": "Raza",
+        "DEPARTAMENT": "Deparatmento",
+        "STATE": "Estado"
+      },
+      "SHOW": {
+        "TILTE": "Bovino"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar"
+      },
+      "MESSAGE": {}
+    }
+  },
+  "REPROD_LECHE": {
+    "LIST": {
+      "DATA": {
+        "TITLE": "Gestión de Ordeños",
+        "TITLE2": "Lista de Ordeños",
+        "ID": "Id",
+        "DATE": "Fecha",
+        "HOUR": "Hora",
+        "BOVINENAME": "Nombre Bovino",
+        "CODE": "Código Bovino",
+        "LITERS": "Litros",
+        "NEW": "Nuevo",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días"
+      },
+      "SHOW": {
+        "TILTE": "Ordeños"
+      },
+      "MESSAGE": {}
+    },
+    "REGISTER": {
+      "DATA": {
+        "TITLE": "Registro nuevo ordeño",
+        "LITERS": "Litros",
+        "DATE": "Fecha",
+        "MANAGER": "Encargado",
+        "NEW_ORDENYO": "Nuevo ordeño",
+        "REGISTER_DATE": "Fecha registro",
+        "BOVINE": "Vacuno",
+        "REGISTER_LITERS": "Litros",
+        "REGISTER_MANAGER": "Encargado",
+        "DETAILS": "Detalles",
+        "PLACEHOLDER_OPTIONAL": "Opcional",
+        "HISTORY": "Historial"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar",
+        "CANCEL": "Cancelar",
+        "SAVE": "Guradar"
+      }
+    },
+    "SHOW": {
+      "DATA": {
+        "TITLE": "Ordeño",
+        "EDIT_ORDENYO": "Ordeño",
+        "LITERS": "Litros",
+        "DATE": "Fecha",
+        "MANAGER": "Encargado",
+        "NEW_ORDENYO": "Nuevo ordeño",
+        "REGISTER_DATE": "Fecha registro",
+        "BOVINE": "Vacuno",
+        "REGISTER_LITERS": "Litros",
+        "REGISTER_MANAGER": "Encargado",
+        "DETAILS": "Detalles",
+        "PLACEHOLDER_OPTIONAL": "Opcional",
+        "HISTORY": "Historial"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar",
+        "CANCEL": "Cancelar",
+        "SAVE": "Guradar",
+        "EDIT": "Editar",
+        "DELETE": "Eliminar"
+      }
+    },
+    "DELETE": {
+      "DATA": {
+        "TITLE": "ADEVERTENCIA",
+        "DESCRIPTION": "¿Estás seguro que deseas eliminar?",
+        "LITERS": "Litros",
+        "DATE": "Fecha",
+        "BOVINENAME": "Vacuno",
+        "OBSERVATION": "Observación"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar",
+        "CANCEL": "Cancelar"
+      }
+    },
+    "REPORTS": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Lista de reportes",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "SEARCH": "Buscar",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días"
+      },
+      "BUTTONS": {
+        "SHOW_MORE": "Ver más",
+        "SHOW_LESS": "Ver menos"
+      }
+    },
+    "REPORTS_BOVINE_SEQUIA": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Reportes de bovino en sequia",
+        "CODEBOVINE": "Código Bovino",
+        "BOVINENAME": "Nombre Bovino",
+        "DATE_START": "Probablemente desde",
+        "DATE_END": "Probablemente hasta",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    },
+    "DAYLI_REPORTS": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Lista de diarios",
+        "DATE": "Fecha",
+        "HOUR": "Hora",
+        "BOVINENAME": "Nombre Bovino",
+        "CODEORDENYO": "Código Ordeño",
+        "CODEBOVINE": "Código Bovino",
+        "LITERS": "Litros",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "SEARCH": "Buscar",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "SHOW_MORE": "Ver más",
+        "SHOW_LESS": "Ver menos",
+        "BACK": "Atrás"
+      }
+    },
+    "PRODCUTION_REPORTS_GENERAL": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Reportes de producción General",
+        "DATE": "Fecha",
+        "BOVINENAME": "Nombre Bovino",
+        "CODEBOVINE": "Código Bovino",
+        "LITERS": "Litros",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    },
+    "PRODUCTION_REPORTS_PER_BOVINE": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Reportes de producción por vacuno",
+        "DATE": "Fecha",
+        "HOUR": "Hora",
+        "CODEORDENYO": "Código Ordeño",
+        "LITERS": "Litros",
+        "MANAGER": "Encargado",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "SEARCH": "Buscar",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    },
+    "COMPARATION_PRODUCT_REAL_STANDAR": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Comparación de producción real vs estandar",
+        "DATE": "Fechas",
+        "LITERS": "Litros",
+        "TOTAL_LITERS": "Total leche real",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "SEARCH": "Buscar",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    },
+    "COMPARATION_PRODUCT_REAL_STANDAR_BY_BOVINE": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Comparación de producción real vs estandar por vacuno",
+        "CODEBOVINE": "Código Bovino",
+        "BOVINENAME": "Nombre Bovino",
+        "DATE": "Fechas",
+        "LITERS": "Litros",
+        "TOTAL_LITERS": "Total leche real",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    },
+    "COMPARATION_PRODUCT_REAL_STANDAR_BY_BOVINE_GRAFIC": {
+      "LIST": {
+        "TITLE": "Reportes",
+        "TITLE2": "Comparación de producción real vs estandar por vacuno",
+        "DATE": "Fechas",
+        "LITERS": "Litros",
+        "TOTAL_LITERS": "Total leche real",
+        "PLACEHOLDER_ENTER_DATE": "Ingrese la fecha",
+        "SEARCH": "Buscar",
+        "TOOLTIP_ENTER_DATE": "Ingrese el rango fechas",
+        "START_DATE": "Fecha inicio",
+        "END_DATE": "Fecha fin",
+        "STARTDATE_REQUIRED": "Fecha de inicio es requerido",
+        "ENDDATE_REQUIRED": "Fecha de fin es requerido",
+        "LIMIT_DATE": "El rango de fechas no debe superar los",
+        "DAYS": "días",
+        "DOWNLOAD": "Descargar"
+      },
+      "BUTTONS": {
+        "BACK": "Atrás"
+      }
+    }
+  },
+  "CELO": {
+    "LIST": {
+      "DATA": {
+        "TITLE": "Gestión de Celos",
+        "TITLE2": "Lista de Celos",
+        "ID": "Id",
+        "DATE": "Fecha",
+        "USERNAME": "Usuario",
+        "CODEZEAL": "Codigo",
+        "HOUR": "Hora",
+        "BOVINENAME": "Nombre Bovino",
+        "CODE": "Código Bovino",
+        "CODEORDENYO": "Código Ordeño",
+        "TIMEINZEAL": "N° Celos",
+        "MANAGER": "Encargado"
+      },
+      "SHOW": {
+        "TILTE": "Celos"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar"
+      },
+      "MESSAGE": {}
+    }
+  },
+  "SANIDAD": {
+    "LIST": {
+      "DATA": {
+        "TITLE": "Gestión de Sanidad",
+        "TITLE2": "Lista de Incidentes",
+        "ID": "Id"
+      },
+      "SHOW": {
+        "TILTE": "Incidentes"
+      },
+      "BUTTONS": {
+        "CONFIRM": "Confirmar"
+      },
+      "MESSAGE": {}
+    }
+  },
+  "REQUESTS": {
+    "LIST": {
+      "TABLE_TITLE": "LISTA DE SOLICITUDES POR ASESOR",
+      "CODE": "CÓDIGO",
+      "FULL_NAME_STUDENT": "ESTUDIANTE",
+      "FULL_NAME_ADVISER": "ASESOR",
+      "DATE": "FECHA",
+      "MESSAGE": "MENSAJE",
+      "STATE": "ESTADO"
+    }
+  }
+}
